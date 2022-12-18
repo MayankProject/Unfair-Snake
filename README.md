@@ -1,4 +1,4 @@
-# Street Fight
+# Unfair Snake
 [Deployment](https://mayankproject.github.io/Unfair-Snake/)
 
 **You won't survive after crashing in your own tail so be careful !**
